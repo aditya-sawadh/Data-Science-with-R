@@ -1,6 +1,6 @@
 install.packages('caret') # for createDataPartition, train, predict
 install.packages('rpart.plot')
-user_path= "E:/NCSU/Data Science/Data/"
+
 setwd(user_path)
 library(readr)
 library(rpart.plot)
